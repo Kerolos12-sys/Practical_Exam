@@ -1,0 +1,11 @@
+E:\Projects\tests_for_network\Server\Server\bin\Debug\Server.exe.config
+E:\Projects\tests_for_network\Server\Server\bin\Debug\Server.exe
+E:\Projects\tests_for_network\Server\Server\bin\Debug\Server.pdb
+E:\Projects\tests_for_network\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\Projects\tests_for_network\Server\Server\obj\Debug\Server.Form1.resources
+E:\Projects\tests_for_network\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Projects\tests_for_network\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Projects\tests_for_network\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Projects\tests_for_network\Server\Server\obj\Debug\Server.exe
+E:\Projects\tests_for_network\Server\Server\obj\Debug\Server.pdb
+E:\Projects\tests_for_network\Server\Server\obj\Debug\Server.exe.config
