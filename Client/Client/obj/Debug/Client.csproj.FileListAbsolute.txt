@@ -1,0 +1,11 @@
+E:\Projects\tests_for_network\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Projects\tests_for_network\Client\Client\obj\Debug\Client.Form1.resources
+E:\Projects\tests_for_network\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Projects\tests_for_network\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Projects\tests_for_network\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Projects\tests_for_network\Client\Client\bin\Debug\Client.exe.config
+E:\Projects\tests_for_network\Client\Client\bin\Debug\Client.exe
+E:\Projects\tests_for_network\Client\Client\bin\Debug\Client.pdb
+E:\Projects\tests_for_network\Client\Client\obj\Debug\Client.exe
+E:\Projects\tests_for_network\Client\Client\obj\Debug\Client.pdb
+E:\Projects\tests_for_network\Client\Client\obj\Debug\Client.exe.config
